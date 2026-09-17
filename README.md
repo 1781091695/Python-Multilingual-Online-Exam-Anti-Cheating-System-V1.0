@@ -281,19 +281,35 @@ CheatingAnalysis (作弊分析)
 
 参考文献
 [1] 杨平.基于机器视觉的煤矿工人违规行为自动识别方法[J].自动化应用,2025,66(02):10-12.
+
 [2] 吴晓云,袁昊东.基于Spring Boot的在线考试管理系统[J].微型电脑应用,2024,40(11):199-204. 
+
 [3] 薛鑫,杨自勉.基于人脸识别技术的公共图书馆用户行为自动监控方法[J].自动化技术与应用,2023,42(08):28-33. 
+
 [4] 余子恺,陈丽,赵竞远,等.基于图像识别的在线考试实时监测方法[J].嘉兴学院学报,2023,35(06):110-114. 
+
 [5] 林创鲁,叶亮,李刚,等.基于深度学习的自动扶梯乘客异常行为识别方法研究[J].自动化与信息工程,2022,43(06):1-6.
+
 [6] 许德刚,王露,李凡.深度学习的典型目标检测算法研究综述[J].计算机工程与应用,2021,57(08):10-25. 
+
 [7] 陈凤凤.人脸识别技术在网络考试防作弊系统中的应用研究[J].江苏科技信息,2019,36(32):60-62. 
+
 [8] 刘思尧.在线考试系统防作弊策略研究[J].软件导刊,2013,12(10):25-28. 
+
 [9] 徐巧枝,刘东升.网络考试防作弊系统的研究与设计[J].计算机教育,2010,(05):40-41+39. 
+
 [10] 秦玉平,刘宏. C语言在线考试系统的设计与实现[J].辽宁师范大学学报(自然科学版),2005,(01):64-65. 
+
 [11] 郭庆北,曲守宁,王永燕.基于Web的计算机文化基础考试系统的研究与实现[J].计算机工程与应用,2003,(20):223-226.
-[12] Shan Wang, Fang Wang, Zhen Zhu, Jingxuan Wang, Tam Tran, Zhao Du,Artificial intelligence in education: A systematic literature review,Expert Systems with Applications,Volume 252, Part A,2024,124167,ISSN 0957-4174 [13] Andrew E. Fluck,An international review of eExam technologies and impact,Computers & Education,Volume 132,2019,Pages 1-15,ISSN 0360-1315 
+
+[12] Shan Wang, Fang Wang, Zhen Zhu, Jingxuan Wang, Tam Tran, Zhao Du,Artificial intelligence in education: A systematic literature review,Expert Systems with Applications,Volume 252, Part A,2024,124167,ISSN 0957-4174 
+
+[13] Andrew E. Fluck,An international review of eExam technologies and impact,Computers & Education,Volume 132,2019,Pages 1-15,ISSN 0360-1315 
+
 [14] Siham Essahraui, Ismail Lamaakal, Yassine Maleh, Khalid El Makkaoui, Mouncef Filali Bouami, Ibrahim Ouahbi, May Almousa, Ali Abdullah S. AlQahtani, Ahmed A. Abd El-Latif,Deep Learning Models for Detecting Cheating in Online Exams,Computers, Materials and Continua,Volume 85, Issue 2,2025,Pages 3151-3183,ISSN 1546-2218
+
 [15] Cody Abbey, Yue Ma, Muizz Akhtar, Dorien Emmers, Robert Fairlie, Ning Fu, Hannah Faith Johnstone, Prashant Loyalka, Scott Rozelle, Hao Xue, Xinwu Zhang,Generalizable evidence that computer assisted learning improves student learning: A systematic review of education technology in China,Computers and Education Open,Volume 6,2024,100161,ISSN 2666-5573 
+
 [16] Django Software Foundation. Django Documentation[EB/OL]. https://docs.djangoproject.com/ [17] Vue.js. Vue.js Documentation[EB/OL]. https://vuejs.org/ [18] Django REST framework. Django REST framework Documentation[EB/OL]. https://www.django-rest-framework.org/
 
 附录A
